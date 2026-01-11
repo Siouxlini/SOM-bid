@@ -1,2 +1,2 @@
-# SOM-bid
-SOM relief bidding tool
+# Relief SOM Bid System
+Relief SOM Bid Tool
